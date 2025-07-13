@@ -4,7 +4,7 @@
 
 ## Visit the Website
 
-🌐 To visit the Interia website, click [Here](https://meet244.github.io/Interia/).
+
 
 ## File Structure
 
